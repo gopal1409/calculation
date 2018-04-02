@@ -10,7 +10,7 @@ def subtract(x, y):
 
 def multiply(x, y):
     """Multiply Function"""
-    pass
+    return x * y
 
 
 def divide(x, y):
